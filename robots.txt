@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wilmingtonwaterheaterco.com/sitemap.xml
